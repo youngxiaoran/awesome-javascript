@@ -1,5 +1,5 @@
 # awesome-javascript
-pure javascript library collect
+pure javascript library collect（include node & browser）
 
 ## Alert
 
