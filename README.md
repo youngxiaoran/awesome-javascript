@@ -14,3 +14,4 @@ success messages
 ## ESLint 插件
 
 - You-Dont-Need-Momentjs [![GitHub stars](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-Momentjs.svg?style=social&label=Stars)](https://github.com/you-dont-need/You-Dont-Need-Momentjs)：List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin
+- You-Dont-Need-Lodash-Underscore [![GitHub stars](https://img.shields.io/github/stars/you-dont-need/You-Dont-Need-Lodash-Underscore.svg?style=social&label=Stars)](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)：List of JavaScript methods which you can use natively + ESLint Plugin
